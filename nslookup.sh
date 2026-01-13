@@ -18,3 +18,4 @@ while read -r line; do
         fi
     done
 done < /etc/hosts
+Modificare facuta de Lupu Mattias
